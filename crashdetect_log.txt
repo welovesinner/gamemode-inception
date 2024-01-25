@@ -1,0 +1,141 @@
+[19h:29m:17s] Long callback execution detected (hang or performance issue)
+[19h:29m:17s] AMX backtrace:
+[19h:29m:17s] #0 00003438 in InitOpcodeTable () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:164
+[19h:29m:17s] #1 000053b8 in Opcode:RelocateOpcode (Opcode:opcode=134) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:730
+[19h:29m:17s] #2 0000af5c in CodeScanInit (scanner[CodeScanner:164]=@0349bc70) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc:976
+[19h:29m:17s] #3 0000f76c in YVA2_Initalise () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:507
+[19h:29m:17s] #4 0000e070 in public AMX_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:247
+[19h:29m:17s] #5 0000b904 in public Debug_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[19h:29m:17s] #6 000024fc in public YVers_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[19h:29m:17s] #7 00001b9c in public ScriptInit_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[19h:29m:17s] #8 00001810 in public OnGameModeInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[19h:29m:20s] Long callback execution detected (hang or performance issue)
+[19h:29m:20s] AMX backtrace:
+[19h:29m:20s] #0 00072240 in public load_houses () at modules/houses.inc:67
+[19h:32m:20s] Long callback execution detected (hang or performance issue)
+[19h:32m:20s] AMX backtrace:
+[19h:32m:20s] #0 00041998 in DIST_STRIP:YSI_g_sCommands_Dist () at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:158
+[19h:32m:20s] #1 00046818 in public HANDOFF_SOURCE@_ ()  at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:1427
+[19h:32m:20s] #2 native CallLocalFunction () in Pawn.dll
+[19h:32m:20s] #3 0003db08 in public @_ () <@_:> at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master\_impl.inc:757
+[19h:32m:20s] #4 native CallLocalFunction () in Pawn.dll
+[19h:32m:20s] #5 0003ce14 in public ScriptInit_OnScriptExit ()  at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master/once.inc:324
+[19h:32m:20s] #6 000018d0 in public OnGameModeExit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:270
+[19h:32m:33s] Long callback execution detected (hang or performance issue)
+[19h:32m:33s] AMX backtrace:
+[19h:32m:33s] #0 000052a4 in InitOpcodeTable () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:720
+[19h:32m:33s] #1 000053b8 in Opcode:RelocateOpcode (Opcode:opcode=134) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:730
+[19h:32m:33s] #2 0000af5c in CodeScanInit (scanner[CodeScanner:164]=@0349acd0) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc:976
+[19h:32m:33s] #3 0000f76c in YVA2_Initalise () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:507
+[19h:32m:33s] #4 0000e070 in public AMX_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:247
+[19h:32m:33s] #5 0000b904 in public Debug_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[19h:32m:33s] #6 000024fc in public YVers_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[19h:32m:33s] #7 00001b9c in public ScriptInit_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[19h:32m:33s] #8 00001810 in public OnGameModeInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[19h:32m:36s] Long callback execution detected (hang or performance issue)
+[19h:32m:36s] AMX backtrace:
+[19h:32m:36s] #0 000717f8 in public load_houses () at modules/houses.inc:48
+[19h:36m:31s] Long callback execution detected (hang or performance issue)
+[19h:36m:31s] AMX backtrace:
+[19h:36m:31s] #0 00041948 in DIST_STRIP:YSI_g_sCommands_Dist () at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:158
+[19h:36m:31s] #1 00046818 in public HANDOFF_SOURCE@_ ()  at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:1427
+[19h:36m:31s] #2 native CallLocalFunction () in Pawn.dll
+[19h:36m:31s] #3 0003db08 in public @_ () <@_:> at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master\_impl.inc:757
+[19h:36m:31s] #4 native CallLocalFunction () in Pawn.dll
+[19h:36m:31s] #5 0003ce14 in public ScriptInit_OnScriptExit ()  at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master/once.inc:324
+[19h:36m:31s] #6 000018d0 in public OnGameModeExit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:270
+[19h:36m:43s] Long callback execution detected (hang or performance issue)
+[19h:36m:43s] AMX backtrace:
+[19h:36m:43s] #0 00002c68 in GetAmxHeaderNow (amxhdr[AMX_HDR:17]=@00000cc0) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\amx_header.inc:176
+[19h:36m:43s] #1 00002ec0 in ResetStaticAmxHeader () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\amx_header.inc:191
+[19h:36m:43s] #2 00002f10 in GetAmxHeader (amxhdr[AMX_HDR:17]=@00001b10) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\amx_header.inc:200
+[19h:36m:43s] #3 0000ae84 in CodeScanInit (scanner[CodeScanner:164]=@0349aff4) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc:976
+[19h:36m:43s] #4 0000f76c in YVA2_Initalise () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:507
+[19h:36m:43s] #5 0000e070 in public AMX_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:247
+[19h:36m:43s] #6 0000b904 in public Debug_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[19h:36m:43s] #7 000024fc in public YVers_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[19h:36m:43s] #8 00001b9c in public ScriptInit_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[19h:36m:43s] #9 00001810 in public OnGameModeInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[19h:41m:13s] Long callback execution detected (hang or performance issue)
+[19h:41m:13s] AMX backtrace:
+[19h:41m:13s] #0 000412d4 in Distribute_So (func[]=@00028d40 "YSI_g_sCommands@Dist", idx=17, Bit:masters[]=@0000f438, 78132, 54899420) at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Internal\y_distribute.inc:184
+[19h:41m:13s] #1 000419f0 in DIST_STRIP:YSI_g_sCommands_Dist () at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:158
+[19h:41m:13s] #2 00046818 in public HANDOFF_SOURCE@_ ()  at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:1427
+[19h:41m:13s] #3 native CallLocalFunction () in Pawn.dll
+[19h:41m:13s] #4 0003db08 in public @_ () <@_:> at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master\_impl.inc:757
+[19h:41m:13s] #5 native CallLocalFunction () in Pawn.dll
+[19h:41m:13s] #6 0003ce14 in public ScriptInit_OnScriptExit ()  at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master/once.inc:324
+[19h:41m:13s] #7 000018d0 in public OnGameModeExit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:270
+[22h:08m:22s] Long callback execution detected (hang or performance issue)
+[22h:08m:22s] AMX backtrace:
+[22h:08m:22s] #0 00003438 in InitOpcodeTable () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:164
+[22h:08m:22s] #1 000053b8 in Opcode:RelocateOpcode (Opcode:opcode=134) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:730
+[22h:08m:22s] #2 0000af5c in CodeScanInit (scanner[CodeScanner:164]=@0349afb0) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc:976
+[22h:08m:22s] #3 0000f76c in YVA2_Initalise () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:507
+[22h:08m:22s] #4 0000e070 in public AMX_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:247
+[22h:08m:22s] #5 0000b904 in public Debug_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[22h:08m:22s] #6 000024fc in public YVers_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[22h:08m:22s] #7 00001b9c in public ScriptInit_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[22h:08m:22s] #8 00001810 in public OnGameModeInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[22h:17m:28s] Long callback execution detected (hang or performance issue)
+[22h:17m:28s] AMX backtrace:
+[22h:17m:28s] #0 000419f0 in DIST_STRIP:YSI_g_sCommands_Dist () at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:158
+[22h:17m:28s] #1 00046818 in public HANDOFF_SOURCE@_ ()  at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:1427
+[22h:17m:28s] #2 native CallLocalFunction () in Pawn.dll
+[22h:17m:28s] #3 0003db08 in public @_ () <@_:> at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master\_impl.inc:757
+[22h:17m:28s] #4 native CallLocalFunction () in Pawn.dll
+[22h:17m:28s] #5 0003ce14 in public ScriptInit_OnScriptExit ()  at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master/once.inc:324
+[22h:17m:28s] #6 000018d0 in public OnGameModeExit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:270
+[22h:39m:16s] Long callback execution detected (hang or performance issue)
+[22h:39m:16s] AMX backtrace:
+[22h:39m:16s] #0 00003438 in InitOpcodeTable () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:164
+[22h:39m:16s] #1 000053b8 in Opcode:RelocateOpcode (Opcode:opcode=134) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:730
+[22h:39m:16s] #2 0000af5c in CodeScanInit (scanner[CodeScanner:164]=@0349b54c) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc:976
+[22h:39m:16s] #3 0000f76c in YVA2_Initalise () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:507
+[22h:39m:16s] #4 0000e070 in public AMX_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:247
+[22h:39m:16s] #5 0000b904 in public Debug_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[22h:39m:16s] #6 000024fc in public YVers_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[22h:39m:16s] #7 00001b9c in public ScriptInit_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[22h:39m:16s] #8 00001810 in public OnGameModeInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[22h:41m:49s] Long callback execution detected (hang or performance issue)
+[22h:41m:49s] AMX backtrace:
+[22h:41m:49s] #0 0003a610 in Iter_CreateVehicle (modelid=582, Float:x=643.40118, Float:y=-1348.73853, Float:z=13.55441, Float:angle=0.00000, color1=185, color2=185, respawn_delay=0, addsiren=0) at F:\lurk.ro\pawno\include\YSI_Data\y_foreach/iterators.inc:594
+[22h:41m:49s] #1 00168018 in createVehicle (vehicletype=582, Float:x=643.40118, Float:y=-1348.73853, Float:z=13.55441, Float:rotation=0.00000, color1=185, color2=185, respawn_delay=0, addsiren=0, Float:fuel=100.99000) at server/functions.inc:1413
+[22h:41m:49s] #2 0011c310 in public dialog_DIALOG_SFV (playerid=0, response=1, listitem=0, inputtext[]=@0345b834 "1.") at modules/groups/groupcars.inc:337
+[22h:41m:49s] #3 native CallLocalFunction () in Pawn.dll
+[22h:41m:49s] #4 00048b0c in @yH_OnDialogResponse@006 (playerid=0, dialogid=32700, response=1, listitem=0, inputtext[]=@0345b834 "1.") at F:\lurk.ro\pawno\include\easyDialog.inc:87
+[22h:41m:49s] #5 00013820 in public OnDialogResponse (0, 32700, 1, 0, 54900788) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Coding\..\YSI_Internal\y_cgen.inc:114
+[22h:44m:25s] Long callback execution detected (hang or performance issue)
+[22h:44m:25s] AMX backtrace:
+[22h:44m:25s] #0 00115d78 in public WarTimer () at modules/groups/gangs/wars.inc:195
+[22h:46m:37s] Long callback execution detected (hang or performance issue)
+[22h:46m:37s] AMX backtrace:
+[22h:46m:37s] #0 000412b8 in DIST_STRIP:YSI_g_sCommands_Dist () at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Internal\y_distribute.inc:166
+[22h:46m:37s] #1 00046818 in public HANDOFF_SOURCE@_ ()  at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:1427
+[22h:46m:37s] #2 native CallLocalFunction () in Pawn.dll
+[22h:46m:37s] #3 0003db08 in public @_ () <@_:> at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master\_impl.inc:757
+[22h:46m:37s] #4 native CallLocalFunction () in Pawn.dll
+[22h:46m:37s] #5 0003ce14 in public ScriptInit_OnScriptExit ()  at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master/once.inc:324
+[22h:46m:37s] #6 000018d0 in public OnGameModeExit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:270
+[22h:46m:49s] Long callback execution detected (hang or performance issue)
+[22h:46m:49s] AMX backtrace:
+[22h:46m:49s] #0 0000340c in bool:HaveToRelocateOpcodes () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:164
+[22h:46m:49s] #1 00003454 in Opcode:RelocateOpcodeNow (Opcode:opcode=41) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:169
+[22h:46m:49s] #2 00005350 in InitOpcodeTable () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:721
+[22h:46m:49s] #3 000053b8 in Opcode:RelocateOpcode (Opcode:opcode=134) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc:730
+[22h:46m:49s] #4 0000af5c in CodeScanInit (scanner[CodeScanner:164]=@0349b54c) at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc:976
+[22h:46m:49s] #5 0000f76c in YVA2_Initalise () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:507
+[22h:46m:49s] #6 0000e070 in public AMX_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Coding\y_va/impl.inc:247
+[22h:46m:49s] #7 0000b904 in public Debug_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[22h:46m:49s] #8 000024fc in public YVers_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[22h:46m:49s] #9 00001b9c in public ScriptInit_OnScriptInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[22h:46m:49s] #10 00001810 in public OnGameModeInit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[22h:48m:42s] Long callback execution detected (hang or performance issue)
+[22h:48m:42s] AMX backtrace:
+[22h:48m:42s] #0 00041950 in DIST_STRIP:YSI_g_sCommands_Dist () at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:158
+[22h:48m:42s] #1 00046818 in public HANDOFF_SOURCE@_ ()  at F:\lurk.ro\pawno\include\YSI_Visual\y_commands/impl.inc:1427
+[22h:48m:42s] #2 native CallLocalFunction () in Pawn.dll
+[22h:48m:42s] #3 0003db08 in public @_ () <@_:> at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master\_impl.inc:757
+[22h:48m:42s] #4 native CallLocalFunction () in Pawn.dll
+[22h:48m:42s] #5 0003ce14 in public ScriptInit_OnScriptExit ()  at F:\lurk.ro\pawno\include\YSI_Visual\..\YSI_Core\y_master/once.inc:324
+[22h:48m:42s] #6 000018d0 in public OnGameModeExit () at F:\lurk.ro\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:270

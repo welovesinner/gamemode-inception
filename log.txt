@@ -1,0 +1,654 @@
+Starting open.mp server (1.0.1.2409) from commit dcd0190a91e67c99217e8ed3254baeb86733a0e4
+Loading component Actors.dll
+	Successfully loaded component Actors (1.0.1.2409) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.0.1.2409) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.0.1.2409) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.0.1.2409) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.0.1.2409) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.0.1.2409) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.0.1.2409) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.0.1.2409) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.0.1.2409) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.0.1.2409) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.0.1.2409) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.0.1.2409) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.0.1.2409) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.0.1.2409) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.0.1.2409) with UID cf304faa363dd971
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.0.1.2409) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.0.1.2409) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.0.1.2409) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.0.1.2409) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.0.1.2409) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.0.1.2409) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from F:\lurk.ro\components
+Executing Server Config...
+Parsing unknown legacy option crashdetect_log
+[19h:29m:13s] [Info] Loading plugin: sscanf
+[19h:29m:13s] [Info] 
+[19h:29m:13s] [Info]  ===============================
+[19h:29m:13s] [Info] 
+[19h:29m:13s] [Info]       sscanf plugin loaded.     
+[19h:29m:13s] [Info] 
+[19h:29m:13s] [Info]          Version: 2.13.1
+[19h:29m:13s] [Info] 
+[19h:29m:13s] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[19h:29m:13s] [Info] 
+[19h:29m:13s] [Info]  ===============================
+[19h:29m:13s] [Info] 
+[19h:29m:13s] [Info] Loading plugin: mysql
+[19h:29m:13s] [Info]  >> plugin.mysql: R39-6 successfully loaded.
+[19h:29m:13s] [Info] Loading plugin: crashdetect
+[19h:29m:13s] [Info]   CrashDetect plugin 4.20
+[19h:29m:13s] [Info] Loading plugin: streamer
+[19h:29m:13s] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19h:29m:13s] [Info] Loading plugin: samp_bcrypt
+[19h:29m:13s] [Info] [SampBcrypt] [info]: Version: 0.3.4
+[19h:29m:13s] [Info] Loading plugin: pawn-memory
+[19h:29m:14s] [Info] ========================
+[19h:29m:14s] [Info] = Memory access plugin =
+[19h:29m:14s] [Info] =       Made by BigETI =
+[19h:29m:14s] [Info] = Loaded!              =
+[19h:29m:14s] [Info] ========================
+[19h:29m:14s] [Info] Loading plugin: ColAndreas
+[19h:29m:14s] [Info] *********************
+[19h:29m:14s] [Info] ** Created By:     **
+[19h:29m:14s] [Info] ** [uL]Chris42O    **
+[19h:29m:14s] [Info] ** [uL]Slice       **
+[19h:29m:14s] [Info] ** [uL]Pottus      **
+[19h:29m:14s] [Info] *********************
+[19h:29m:17s] [Info] Loaded collision data.
+[19h:29m:17s] [Info] *********************
+[19h:29m:17s] [Info]   ColAndreas Loaded
+[19h:29m:17s] [Info]    v1.4.0
+[19h:29m:17s] [Info] *********************
+[19h:29m:17s] [Warning] Deprecated function GetVehiclePoolSize used. This function was replaced by MAX_VEHICLES.
+[19h:29m:17s] [Warning] Deprecated functions will be removed in the next open.mp release.
+[19h:29m:17s] [Info]  
+[19h:29m:17s] [Info]  
+[19h:29m:17s] [Info]  
+[19h:29m:17s] [Info]  ======================================= 
+[19h:29m:17s] [Info]  |                                     | 
+[19h:29m:17s] [Info]  |        YSI version 4.00.0001        | 
+[19h:29m:17s] [Info]  |        By Alex "Y_Less" Cole        | 
+[19h:29m:17s] [Info]  |                                     | 
+[19h:29m:17s] [Info]  ======================================= 
+[19h:29m:17s] [Info]  
+[19h:29m:20s] [Info]  
+_________________________________________________
+[19h:29m:20s] [Info]  rpg.Lurk.ro se incarca...                  
+[19h:29m:20s] [Info]  versiune: 0.10.278 alpha                      
+[19h:29m:20s] [Info] _________________________________________________
+[19h:29m:20s] [Info]  
+ 
+[19h:29m:20s] [Info] [MYSQL SUCCES] The database was connected succesfully.
+[19h:29m:20s] [Info] Loading Map.
+[19h:29m:20s] [Info] Loaded Map.                             
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Text Labels: 41
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Pickups: 15
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Map Icons: 1
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Objects: 65
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Actors: 6
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Rent Locations: 1
+[19h:29m:20s] [Info] [GAMEMODE LOADED] Vending Machines: 30
+[19h:29m:20s] [Info] Setting server language to: "RO/EN"
+[19h:29m:20s] [Info] Setting server password to: "1234"
+[19h:29m:20s] [Info] Legacy Network started on port 7777
+[19h:29m:20s] [Info] [MYSQL LOADED] Server variables loaded: 11
+[19h:29m:20s] [Info] [MYSQL LOADED] Houses loaded: 199
+[19h:29m:20s] [Info] [MYSQL LOADED] Safe-zones loaded: 3
+[19h:29m:20s] [Info] [MYSQL LOADED] Business loaded: 27
+[19h:29m:20s] [Info] [MYSQL LOADED] Jobs loaded: 10
+[19h:29m:21s] [Info] [MYSQL LOADED] Doors loaded: 1
+[19h:29m:21s] [Info] [MYSQL LOADED] Groups loaded: 8
+[19h:29m:21s] [Info] [script] 4 turfs loaded
+[19h:29m:21s] [Info] [MYSQL LOADED] Server vehicles loaded: 27
+[19h:29m:21s] [Info] [MYSQL LOADED] Dealership vehicles: 105
+[19h:29m:21s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[19h:29m:21s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[19h:29m:21s] [Info] Failed to announce legacy network to open.mp list
+[19h:29m:35s] [Info] [connection] incoming connection: 192.168.1.2:52534 id: 0
+[19h:29m:35s] [Info] [join] slpr has joined the server (0:192.168.1.2)
+[19h:30m:08s] [Info] [connection] incoming connection: 192.168.1.2:63711 id: 1
+[19h:30m:08s] [Info] [join] name05 has joined the server (1:192.168.1.2)
+[19h:31m:25s] [Info] [death] slpr died 255
+[19h:32m:32s] [Warning] Deprecated function GetVehiclePoolSize used. This function was replaced by MAX_VEHICLES.
+[19h:32m:32s] [Warning] Deprecated functions will be removed in the next open.mp release.
+[19h:32m:33s] [Info]  
+[19h:32m:33s] [Info]  
+[19h:32m:33s] [Info]  
+[19h:32m:33s] [Info]  ======================================= 
+[19h:32m:33s] [Info]  |                                     | 
+[19h:32m:33s] [Info]  |        YSI version 4.00.0001        | 
+[19h:32m:33s] [Info]  |        By Alex "Y_Less" Cole        | 
+[19h:32m:33s] [Info]  |                                     | 
+[19h:32m:33s] [Info]  ======================================= 
+[19h:32m:33s] [Info]  
+[19h:32m:35s] [Info]  
+_________________________________________________
+[19h:32m:35s] [Info]  rpg.Lurk.ro se incarca...                  
+[19h:32m:36s] [Info]  versiune: 0.10.278 alpha                      
+[19h:32m:36s] [Info] _________________________________________________
+[19h:32m:36s] [Info]  
+ 
+[19h:32m:36s] [Info] [MYSQL SUCCES] The database was connected succesfully.
+[19h:32m:36s] [Info] Tried to reload Map.
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Text Labels: 41
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Pickups: 15
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Map Icons: 1
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Objects: 65
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Actors: 6
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Rent Locations: 1
+[19h:32m:36s] [Info] [GAMEMODE LOADED] Vending Machines: 30
+[19h:32m:36s] [Info] Setting server language to: "RO/EN"
+[19h:32m:36s] [Info] Setting server password to: "1234"
+[19h:32m:36s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[19h:32m:36s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[19h:32m:36s] [Info] [MYSQL LOADED] Server variables loaded: 11
+[19h:32m:36s] [Info] [MYSQL LOADED] Houses loaded: 199
+[19h:32m:36s] [Info] [MYSQL LOADED] Safe-zones loaded: 3
+[19h:32m:36s] [Info] [MYSQL LOADED] Business loaded: 27
+[19h:32m:36s] [Info] [MYSQL LOADED] Jobs loaded: 10
+[19h:32m:36s] [Info] [MYSQL LOADED] Doors loaded: 1
+[19h:32m:36s] [Info] [MYSQL LOADED] Groups loaded: 8
+[19h:32m:36s] [Info] [script] 4 turfs loaded
+[19h:32m:36s] [Info] [MYSQL LOADED] Server vehicles loaded: 27
+[19h:32m:36s] [Info] [MYSQL LOADED] Dealership vehicles: 105
+[19h:33m:02s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 1, state: on foot, speed: 24, time: eta 1s, last pos: 2546.54, -1304.72, 1054.64, new pos: 2230.60, -1333.47, 23.98
+[19h:33m:14s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 0, time: eta 1s, last pos: 2496.11, -1692.24, 1014.74, new pos: 2495.37, -1691.14, 14.76
+[19h:36m:43s] [Warning] Deprecated function GetVehiclePoolSize used. This function was replaced by MAX_VEHICLES.
+[19h:36m:43s] [Warning] Deprecated functions will be removed in the next open.mp release.
+[19h:36m:43s] [Info]  
+[19h:36m:43s] [Info]  
+[19h:36m:43s] [Info]  
+[19h:36m:43s] [Info]  ======================================= 
+[19h:36m:43s] [Info]  |                                     | 
+[19h:36m:43s] [Info]  |        YSI version 4.00.0001        | 
+[19h:36m:43s] [Info]  |        By Alex "Y_Less" Cole        | 
+[19h:36m:43s] [Info]  |                                     | 
+[19h:36m:43s] [Info]  ======================================= 
+[19h:36m:43s] [Info]  
+[19h:36m:46s] [Info]  
+_________________________________________________
+[19h:36m:46s] [Info]  rpg.Lurk.ro se incarca...                  
+[19h:36m:46s] [Info]  versiune: 0.10.278 alpha                      
+[19h:36m:46s] [Info] _________________________________________________
+[19h:36m:46s] [Info]  
+ 
+[19h:36m:46s] [Info] [MYSQL SUCCES] The database was connected succesfully.
+[19h:36m:46s] [Info] Tried to reload Map.
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Text Labels: 41
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Pickups: 15
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Map Icons: 1
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Objects: 65
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Actors: 6
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Rent Locations: 1
+[19h:36m:46s] [Info] [GAMEMODE LOADED] Vending Machines: 30
+[19h:36m:46s] [Info] Setting server language to: "RO/EN"
+[19h:36m:46s] [Info] Setting server password to: "1234"
+[19h:36m:46s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[19h:36m:46s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[19h:36m:46s] [Info] [MYSQL LOADED] Server variables loaded: 11
+[19h:36m:46s] [Info] [MYSQL LOADED] Houses loaded: 199
+[19h:36m:46s] [Info] [MYSQL LOADED] Safe-zones loaded: 3
+[19h:36m:46s] [Info] [MYSQL LOADED] Business loaded: 27
+[19h:36m:46s] [Info] [MYSQL LOADED] Jobs loaded: 10
+[19h:36m:46s] [Info] [MYSQL LOADED] Doors loaded: 1
+[19h:36m:46s] [Info] [MYSQL LOADED] Groups loaded: 8
+[19h:36m:46s] [Info] [script] 4 turfs loaded
+[19h:36m:46s] [Info] [MYSQL LOADED] Server vehicles loaded: 27
+[19h:36m:46s] [Info] [MYSQL LOADED] Dealership vehicles: 105
+[19h:37m:40s] [Info] [death] name05 died 255
+[19h:38m:02s] [Info] [death] name05 died 255
+[19h:38m:19s] [Info] [death] name05 died 255
+[19h:41m:06s] [Info] [part] name05 has left the server (1:1)
+[19h:41m:10s] [Info] [part] slpr has left the server (0:1)
+[19h:41m:13s] [Info] 
+[19h:41m:13s] [Info]  ===============================
+[19h:41m:13s] [Info] 
+[19h:41m:13s] [Info]      sscanf plugin unloaded.    
+[19h:41m:13s] [Info] 
+[19h:41m:13s] [Info]  ===============================
+[19h:41m:13s] [Info] 
+[19h:41m:13s] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19h:41m:13s] [Info] plugin.mysql: Unloading plugin...
+[19h:41m:13s] [Info] plugin.mysql: Plugin unloaded.
+[19h:41m:13s] [Info] *********************
+[19h:41m:13s] [Info] *ColAndreas Unloaded*
+[19h:41m:13s] [Info] *********************
+[19h:41m:13s] [Info] ========================
+[19h:41m:13s] [Info] = Memory access plugin =
+[19h:41m:13s] [Info] =       Made by BigETI =
+[19h:41m:13s] [Info] = Unloaded!            =
+[19h:41m:13s] [Info] ========================
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loaded 22 component(s) from F:\lurk.ro\components
+Executing Server Config...
+Parsing unknown legacy option crashdetect_log
+[22h:08m:18s] [Info] Loading plugin: sscanf
+[22h:08m:18s] [Info] 
+[22h:08m:18s] [Info]  ===============================
+[22h:08m:18s] [Info] 
+[22h:08m:18s] [Info]       sscanf plugin loaded.     
+[22h:08m:18s] [Info] 
+[22h:08m:18s] [Info]          Version: 2.13.1
+[22h:08m:18s] [Info] 
+[22h:08m:18s] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[22h:08m:18s] [Info] 
+[22h:08m:18s] [Info]  ===============================
+[22h:08m:18s] [Info] 
+[22h:08m:18s] [Info] Loading plugin: mysql
+[22h:08m:18s] [Info]  >> plugin.mysql: R39-6 successfully loaded.
+[22h:08m:18s] [Info] Loading plugin: crashdetect
+[22h:08m:18s] [Info]   CrashDetect plugin 4.20
+[22h:08m:18s] [Info] Loading plugin: streamer
+[22h:08m:18s] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22h:08m:18s] [Info] Loading plugin: samp_bcrypt
+[22h:08m:18s] [Info] [SampBcrypt] [info]: Version: 0.3.4
+[22h:08m:18s] [Info] Loading plugin: pawn-memory
+[22h:08m:18s] [Info] ========================
+[22h:08m:18s] [Info] = Memory access plugin =
+[22h:08m:18s] [Info] =       Made by BigETI =
+[22h:08m:18s] [Info] = Loaded!              =
+[22h:08m:18s] [Info] ========================
+[22h:08m:18s] [Info] Loading plugin: ColAndreas
+[22h:08m:18s] [Info] *********************
+[22h:08m:18s] [Info] ** Created By:     **
+[22h:08m:18s] [Info] ** [uL]Chris42O    **
+[22h:08m:18s] [Info] ** [uL]Slice       **
+[22h:08m:18s] [Info] ** [uL]Pottus      **
+[22h:08m:18s] [Info] *********************
+[22h:08m:22s] [Info] Loaded collision data.
+[22h:08m:22s] [Info] *********************
+[22h:08m:22s] [Info]   ColAndreas Loaded
+[22h:08m:22s] [Info]    v1.4.0
+[22h:08m:22s] [Info] *********************
+[22h:08m:22s] [Warning] Deprecated function GetVehiclePoolSize used. This function was replaced by MAX_VEHICLES.
+[22h:08m:22s] [Warning] Deprecated functions will be removed in the next open.mp release.
+[22h:08m:22s] [Info]  
+[22h:08m:22s] [Info]  
+[22h:08m:22s] [Info]  
+[22h:08m:22s] [Info]  ======================================= 
+[22h:08m:22s] [Info]  |                                     | 
+[22h:08m:22s] [Info]  |        YSI version 4.00.0001        | 
+[22h:08m:22s] [Info]  |        By Alex "Y_Less" Cole        | 
+[22h:08m:22s] [Info]  |                                     | 
+[22h:08m:22s] [Info]  ======================================= 
+[22h:08m:22s] [Info]  
+[22h:08m:25s] [Info]  
+_________________________________________________
+[22h:08m:25s] [Info]  rpg.Lurk.ro se incarca...                  
+[22h:08m:25s] [Info]  versiune: 0.10.278 alpha                      
+[22h:08m:25s] [Info] _________________________________________________
+[22h:08m:25s] [Info]  
+ 
+[22h:08m:25s] [Info] [MYSQL SUCCES] The database was connected succesfully.
+[22h:08m:25s] [Info] Loading Map.
+[22h:08m:25s] [Info] Loaded Map.                             
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Text Labels: 41
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Pickups: 15
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Map Icons: 1
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Objects: 65
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Actors: 6
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Rent Locations: 1
+[22h:08m:25s] [Info] [GAMEMODE LOADED] Vending Machines: 30
+[22h:08m:25s] [Warning] Legacy key `weburl` supplied, using `website`
+[22h:08m:25s] [Warning] Legacy key `hostname` supplied, using `name`
+[22h:08m:25s] [Info] Setting server password to: "1234"
+[22h:08m:25s] [Info] Legacy Network started on port 7777
+[22h:08m:25s] [Info] [MYSQL LOADED] Server variables loaded: 11
+[22h:08m:25s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[22h:08m:25s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[22h:08m:25s] [Info] [MYSQL LOADED] Houses loaded: 199
+[22h:08m:25s] [Info] [MYSQL LOADED] Safe-zones loaded: 3
+[22h:08m:26s] [Info] [MYSQL LOADED] Business loaded: 27
+[22h:08m:26s] [Info] [MYSQL LOADED] Jobs loaded: 10
+[22h:08m:26s] [Info] [MYSQL LOADED] Doors loaded: 1
+[22h:08m:26s] [Info] [MYSQL LOADED] Groups loaded: 8
+[22h:08m:26s] [Info] [script] 4 turfs loaded
+[22h:08m:26s] [Info] [MYSQL LOADED] Server vehicles loaded: 27
+[22h:08m:26s] [Info] Couldn't announce legacy network to open.mp list.
+[22h:08m:26s] [Info] 	[Server Error] Status: 406
+[22h:08m:26s] [Info] 	[Server Error] Message: {"error":"failed to query server: failed to resolve host: address 2a02:2f08:8421:ab00:5c0:b61e:1d11:468d:7777: too many colons in address"}
+[22h:08m:26s] [Info] This won't affect the server's behaviour.
+[22h:08m:26s] [Info] [MYSQL LOADED] Dealership vehicles: 105
+[22h:09m:52s] [Info] [connection] incoming connection: 192.168.1.2:53540 id: 0
+[22h:09m:52s] [Info] [join] slpr has joined the server (0:192.168.1.2)
+[22h:10m:06s] [Info] [anticheat debug]: Speed-hack onfoot detected - playerid: 0, speed: 806, allowed speed: <300
+[22h:10m:24s] [Info] [connection] incoming connection: 192.168.1.2:52153 id: 1
+[22h:10m:24s] [Info] [join] name05 has joined the server (1:192.168.1.2)
+[22h:11m:12s] [Info] [death] name05 died 255
+[22h:11m:54s] [Info] [anticheat debug]: Speed-hack onfoot detected - playerid: 0, speed: 831, allowed speed: <300
+[22h:12m:00s] [Info] [anticheat debug]: Speed-hack onfoot detected - playerid: 0, speed: 758, allowed speed: <300
+[22h:12m:06s] [Info] [anticheat debug]: Fly-hack detected - playerid: 0, state: on foot, speed: 1
+[22h:12m:28s] [Info] [connection] incoming connection: 192.168.1.2:65290 id: 2
+[22h:12m:28s] [Info] [join] name051 has joined the server (2:192.168.1.2)
+[22h:12m:28s] [Info] [part] name051 has left the server (2:2)
+[22h:13m:39s] [Info] [connection] incoming connection: 192.168.1.2:52641 id: 2
+[22h:13m:39s] [Info] [join] name051 has joined the server (2:192.168.1.2)
+[22h:14m:12s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 0, time: eta 1s, last pos: 428.81, -16.00, 9.31, new pos: -2158.66, 642.09, 1052.37
+[22h:15m:34s] [Info] [anticheat debug]: Fly-hack detected - playerid: 0, state: on foot, speed: 587
+[22h:15m:34s] [Info] [anticheat debug]: Speed-hack onfoot detected - playerid: 0, speed: 587, allowed speed: <300
+[22h:15m:48s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 0, time: eta 1s, last pos: -25.79, -188.22, 1003.54, new pos: 1000.17, -920.03, 42.32
+[22h:16m:10s] [Info] [anticheat debug]: Speed-hack onfoot detected - playerid: 0, speed: 708, allowed speed: <300
+[22h:16m:16s] [Info] [anticheat debug]: Speed-hack onfoot detected - playerid: 0, speed: 662, allowed speed: <300
+[22h:16m:42s] [Info] [death] name05 died 255
+[22h:17m:21s] [Info] [part] slpr has left the server (0:1)
+[22h:17m:23s] [Info] [part] name051 has left the server (2:1)
+[22h:17m:26s] [Info] [part] name05 has left the server (1:1)
+[22h:17m:28s] [Info] 
+[22h:17m:28s] [Info]  ===============================
+[22h:17m:28s] [Info] 
+[22h:17m:28s] [Info]      sscanf plugin unloaded.    
+[22h:17m:28s] [Info] 
+[22h:17m:28s] [Info]  ===============================
+[22h:17m:28s] [Info] 
+[22h:17m:28s] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[22h:17m:28s] [Info] plugin.mysql: Unloading plugin...
+[22h:17m:28s] [Info] plugin.mysql: Plugin unloaded.
+[22h:17m:28s] [Info] *********************
+[22h:17m:28s] [Info] *ColAndreas Unloaded*
+[22h:17m:28s] [Info] *********************
+[22h:17m:28s] [Info] ========================
+[22h:17m:28s] [Info] = Memory access plugin =
+[22h:17m:28s] [Info] =       Made by BigETI =
+[22h:17m:28s] [Info] = Unloaded!            =
+[22h:17m:28s] [Info] ========================
+Starting open.mp server (1.1.0.2612) from commit 8829f9f600c36b972b1fc021198bd649afb13fb0
+Loading component Actors.dll
+	Successfully loaded component Actors (1.1.0.2612) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.1.0.2612) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.1.0.2612) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.1.0.2612) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.1.0.2612) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.1.0.2612) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.1.0.2612) with UID 44a111350d611dde
+Loading component Fixes.dll
+	Successfully loaded component Fixes (1.1.0.2612) with UID b5c615eff0329ff7
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.1.0.2612) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.1.0.2612) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.1.0.2612) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.1.0.2612) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.1.0.2612) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.1.0.2612) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.1.0.2612) with UID cf304faa363dd971
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.1.0.2612) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.1.0.2612) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.1.0.2612) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.1.0.2612) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.1.0.2612) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.1.0.2612) with UID 3f1f62ee9e22ab19
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.1.0.2612) with UID 871144d399f5f613
+Loaded 22 component(s) from F:\lurk.ro\components
+Executing Server Config...
+Parsing unknown legacy option crashdetect_log
+[22h:39m:12s] [Info] Loading plugin: sscanf
+[22h:39m:12s] [Info] 
+[22h:39m:12s] [Info]  ===============================
+[22h:39m:12s] [Info] 
+[22h:39m:12s] [Info]       sscanf plugin loaded.     
+[22h:39m:12s] [Info] 
+[22h:39m:12s] [Info]          Version: 2.13.1
+[22h:39m:12s] [Info] 
+[22h:39m:12s] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[22h:39m:12s] [Info] 
+[22h:39m:12s] [Info]  ===============================
+[22h:39m:12s] [Info] 
+[22h:39m:12s] [Info] Loading plugin: mysql
+[22h:39m:12s] [Info]  >> plugin.mysql: R39-6 successfully loaded.
+[22h:39m:12s] [Info] Loading plugin: crashdetect
+[22h:39m:12s] [Info]   CrashDetect plugin 4.20
+[22h:39m:12s] [Info] Loading plugin: streamer
+[22h:39m:12s] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22h:39m:12s] [Info] Loading plugin: samp_bcrypt
+[22h:39m:12s] [Info] [SampBcrypt] [info]: Version: 0.3.4
+[22h:39m:12s] [Info] Loading plugin: pawn-memory
+[22h:39m:12s] [Info] ========================
+[22h:39m:12s] [Info] = Memory access plugin =
+[22h:39m:12s] [Info] =       Made by BigETI =
+[22h:39m:12s] [Info] = Loaded!              =
+[22h:39m:12s] [Info] ========================
+[22h:39m:12s] [Info] Loading plugin: ColAndreas
+[22h:39m:12s] [Info] *********************
+[22h:39m:12s] [Info] ** Created By:     **
+[22h:39m:12s] [Info] ** [uL]Chris42O    **
+[22h:39m:12s] [Info] ** [uL]Slice       **
+[22h:39m:12s] [Info] ** [uL]Pottus      **
+[22h:39m:12s] [Info] *********************
+[22h:39m:16s] [Info] Loaded collision data.
+[22h:39m:16s] [Info] *********************
+[22h:39m:16s] [Info]   ColAndreas Loaded
+[22h:39m:16s] [Info]    v1.4.0
+[22h:39m:16s] [Info] *********************
+[22h:39m:16s] [Warning] Deprecated function GetVehiclePoolSize used. This function was replaced by MAX_VEHICLES.
+[22h:39m:16s] [Warning] Deprecated functions will be removed in the next open.mp release.
+[22h:39m:16s] [Info]  
+[22h:39m:16s] [Info]  
+[22h:39m:16s] [Info]  
+[22h:39m:16s] [Info]  ======================================= 
+[22h:39m:16s] [Info]  |                                     | 
+[22h:39m:16s] [Info]  |        YSI version 4.00.0001        | 
+[22h:39m:16s] [Info]  |        By Alex "Y_Less" Cole        | 
+[22h:39m:16s] [Info]  |                                     | 
+[22h:39m:16s] [Info]  ======================================= 
+[22h:39m:16s] [Info]  
+[22h:39m:19s] [Info]  
+_________________________________________________
+[22h:39m:19s] [Info]  rpg.Lurk.ro se incarca...                  
+[22h:39m:19s] [Info]  versiune: 0.10.278 alpha                      
+[22h:39m:19s] [Info] _________________________________________________
+[22h:39m:19s] [Info]  
+ 
+[22h:39m:19s] [Info] [MYSQL SUCCES] The database was connected succesfully.
+[22h:39m:19s] [Info] Loading Map.
+[22h:39m:20s] [Info] Loaded Map.                             
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Text Labels: 41
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Pickups: 15
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Map Icons: 1
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Objects: 65
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Actors: 6
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Rent Locations: 1
+[22h:39m:20s] [Info] [GAMEMODE LOADED] Vending Machines: 30
+[22h:39m:20s] [Warning] Legacy key `weburl` supplied, using `website`
+[22h:39m:20s] [Warning] Legacy key `hostname` supplied, using `name`
+[22h:39m:20s] [Info] Setting server password to: "1234"
+[22h:39m:20s] [Info] Legacy Network started on port 7777
+[22h:39m:20s] [Info] [MYSQL LOADED] Server variables loaded: 11
+[22h:39m:20s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[22h:39m:20s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[22h:39m:20s] [Info] [MYSQL LOADED] Houses loaded: 199
+[22h:39m:20s] [Info] [MYSQL LOADED] Safe-zones loaded: 3
+[22h:39m:20s] [Info] [MYSQL LOADED] Business loaded: 27
+[22h:39m:20s] [Info] [MYSQL LOADED] Jobs loaded: 10
+[22h:39m:20s] [Info] [MYSQL LOADED] Doors loaded: 1
+[22h:39m:20s] [Info] [MYSQL LOADED] Groups loaded: 8
+[22h:39m:20s] [Info] [script] 4 turfs loaded
+[22h:39m:20s] [Info] [MYSQL LOADED] Server vehicles loaded: 27
+[22h:39m:20s] [Info] Couldn't announce legacy network to open.mp list.
+[22h:39m:20s] [Info] 	[Server Error] Status: 406
+[22h:39m:20s] [Info] 	[Server Error] Message: {"error":"failed to query server: failed to resolve host: address 2a02:2f08:8421:ab00:5c0:b61e:1d11:468d:7777: too many colons in address"}
+[22h:39m:20s] [Info] This won't affect the server's behaviour.
+[22h:39m:20s] [Info] [MYSQL LOADED] Dealership vehicles: 105
+[22h:40m:18s] [Info] [connection] incoming connection: 192.168.1.2:56164 id: 0
+[22h:40m:19s] [Info] [join] slpr has joined the server (0:192.168.1.2)
+[22h:41m:20s] [Info] [connection] incoming connection: 192.168.1.2:57789 id: 1
+[22h:41m:20s] [Info] [join] name05 has joined the server (1:192.168.1.2)
+[22h:41m:49s] [Warning] Vehicle created with respawn delay 0 which is undefined behaviour that might change in the future.
+[22h:41m:49s] [Info] [anticheat debug]: Entered in vehicle 28, tickcount setted: 89767437.
+[22h:42m:01s] [Info] [anticheat debug]: Entered in vehicle 28, tickcount setted: 89779418.
+[22h:42m:37s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 0, time: eta 1s, last pos: 635.54, -1368.30, 13.52, new pos: 479.70, -1498.87, 20.47
+[22h:42m:43s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 0, time: eta 1s, last pos: 485.37, -1480.67, 19.56, new pos: -2031.10, -115.81, 1035.17
+[22h:42m:51s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 8, time: eta 1s, last pos: -2030.75, -116.46, 1035.17, new pos: 1172.53, -1323.41, 15.40
+[22h:42m:55s] [Info] [anticheat debug]: Entered in vehicle 28, tickcount setted: 89833768.
+[22h:43m:38s] [Info] [death] name05 died 54
+[22h:43m:42s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 1, state: on foot, speed: 0, time: eta 1s, last pos: 1196.99, -1320.15, 14.67, new pos: 479.70, -1498.87, 20.47
+[22h:43m:58s] [Info] [anticheat debug]: Entered in vehicle 28, tickcount setted: 89896988.
+[22h:44m:22s] [Info] [anticheat debug]: Entered in vehicle 28, tickcount setted: 89921264.
+[22h:46m:49s] [Warning] Deprecated function GetVehiclePoolSize used. This function was replaced by MAX_VEHICLES.
+[22h:46m:49s] [Warning] Deprecated functions will be removed in the next open.mp release.
+[22h:46m:49s] [Info]  
+[22h:46m:49s] [Info]  
+[22h:46m:49s] [Info]  
+[22h:46m:49s] [Info]  ======================================= 
+[22h:46m:49s] [Info]  |                                     | 
+[22h:46m:49s] [Info]  |        YSI version 4.00.0001        | 
+[22h:46m:49s] [Info]  |        By Alex "Y_Less" Cole        | 
+[22h:46m:49s] [Info]  |                                     | 
+[22h:46m:49s] [Info]  ======================================= 
+[22h:46m:49s] [Info]  
+[22h:46m:53s] [Info]  
+_________________________________________________
+[22h:46m:53s] [Info]  rpg.Lurk.ro se incarca...                  
+[22h:46m:53s] [Info]  versiune: 0.10.278 alpha                      
+[22h:46m:53s] [Info] _________________________________________________
+[22h:46m:53s] [Info]  
+ 
+[22h:46m:53s] [Info] [MYSQL SUCCES] The database was connected succesfully.
+[22h:46m:53s] [Info] Tried to reload Map.
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Text Labels: 41
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Pickups: 15
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Map Icons: 1
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Objects: 65
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Actors: 6
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Rent Locations: 1
+[22h:46m:53s] [Info] [GAMEMODE LOADED] Vending Machines: 30
+[22h:46m:53s] [Warning] Legacy key `weburl` supplied, using `website`
+[22h:46m:53s] [Warning] Legacy key `hostname` supplied, using `name`
+[22h:46m:53s] [Info] Setting server password to: "1234"
+[22h:46m:53s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[22h:46m:53s] [Error] SetTimer(Ex): There was a problem in calling Malloc_SolidifyTimer: (sleep mode)
+[22h:46m:53s] [Info] [MYSQL LOADED] Server variables loaded: 11
+[22h:46m:53s] [Info] [MYSQL LOADED] Houses loaded: 199
+[22h:46m:53s] [Info] [MYSQL LOADED] Safe-zones loaded: 3
+[22h:46m:53s] [Info] [MYSQL LOADED] Business loaded: 27
+[22h:46m:53s] [Info] [MYSQL LOADED] Jobs loaded: 10
+[22h:46m:53s] [Info] [MYSQL LOADED] Doors loaded: 1
+[22h:46m:53s] [Info] [MYSQL LOADED] Groups loaded: 8
+[22h:46m:53s] [Info] [script] 4 turfs loaded
+[22h:46m:53s] [Info] [MYSQL LOADED] Server vehicles loaded: 27
+[22h:46m:53s] [Info] [MYSQL LOADED] Dealership vehicles: 105
+[22h:47m:09s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 0, time: eta 1s, last pos: 530.28, -1413.70, 87.22, new pos: -2031.10, -115.81, 1035.17
+[22h:47m:19s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 25, time: eta 1s, last pos: -2031.10, -115.81, 1035.17, new pos: 480.89, -1500.02, 20.49
+[22h:47m:31s] [Info] [anticheat debug]: Teleport-hack detected - playerid: 0, state: on foot, speed: 23, time: eta 1s, last pos: 1700.97, -1667.89, 20.21, new pos: 649.23, -1361.57, 13.59
+[22h:48m:03s] [Info] [part] name05 has left the server (1:1)
+[22h:48m:39s] [Info] [part] slpr has left the server (0:1)
+[22h:48m:42s] [Info] 
+[22h:48m:42s] [Info]  ===============================
+[22h:48m:42s] [Info] 
+[22h:48m:42s] [Info]      sscanf plugin unloaded.    
+[22h:48m:42s] [Info] 
+[22h:48m:42s] [Info]  ===============================
+[22h:48m:42s] [Info] 
+[22h:48m:42s] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[22h:48m:42s] [Info] plugin.mysql: Unloading plugin...
+[22h:48m:42s] [Info] plugin.mysql: Plugin unloaded.
+[22h:48m:42s] [Info] *********************
+[22h:48m:42s] [Info] *ColAndreas Unloaded*
+[22h:48m:42s] [Info] *********************
+[22h:48m:42s] [Info] ========================
+[22h:48m:42s] [Info] = Memory access plugin =
+[22h:48m:42s] [Info] =       Made by BigETI =
+[22h:48m:42s] [Info] = Unloaded!            =
+[22h:48m:42s] [Info] ========================

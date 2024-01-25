@@ -1,0 +1,12 @@
+[7:29:20 PM 1/4/2024] [WARNING] CMySQLResult::GetRowDataByName - field not found ("doorInfo") (Query: "SELECT * FROM `server_doors`")
+[7:29:21 PM 1/4/2024] [ERROR] cache_get_field_content_int - invalid datatype
+[7:32:36 PM 1/4/2024] [WARNING] CMySQLResult::GetRowDataByName - field not found ("doorInfo") (Query: "SELECT * FROM `server_doors`")
+[7:32:36 PM 1/4/2024] [ERROR] cache_get_field_content_int - invalid datatype
+[7:36:46 PM 1/4/2024] [WARNING] CMySQLResult::GetRowDataByName - field not found ("doorInfo") (Query: "SELECT * FROM `server_doors`")
+[7:36:46 PM 1/4/2024] [ERROR] cache_get_field_content_int - invalid datatype
+[10:08:26 PM 1/4/2024] [WARNING] CMySQLResult::GetRowDataByName - field not found ("doorInfo") (Query: "SELECT * FROM `server_doors`")
+[10:08:26 PM 1/4/2024] [ERROR] cache_get_field_content_int - invalid datatype
+[10:39:20 PM 1/4/2024] [WARNING] CMySQLResult::GetRowDataByName - field not found ("doorInfo") (Query: "SELECT * FROM `server_doors`")
+[10:39:20 PM 1/4/2024] [ERROR] cache_get_field_content_int - invalid datatype
+[10:46:53 PM 1/4/2024] [WARNING] CMySQLResult::GetRowDataByName - field not found ("doorInfo") (Query: "SELECT * FROM `server_doors`")
+[10:46:53 PM 1/4/2024] [ERROR] cache_get_field_content_int - invalid datatype
